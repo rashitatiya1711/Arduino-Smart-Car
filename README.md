@@ -36,8 +36,4 @@ This smart car prototype showcases the integration of various hardware component
 6. **Explore and Experiment:**
     - Experiment with different scenarios and functionalities to explore the capabilities of this Arduino-based smart car prototype.
 
-## Acknowledgments
-
-We appreciate the contributions of our open-source community. Thank you for exploring the world of smart car technology with us!
-
 Happy coding and driving!
